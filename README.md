@@ -1,18 +1,20 @@
 
 
-# Job-PE 
-Lorem ipsum dolor sit amet consectetur adipiscing elit facilisi tempor diam, mus taciti eget eleifend primis tortor fusce at cursus velit, nullam sagittis lobortis enim urna venenatis a fames neque. Cursus curae id metus augue praesent ultrices nibh leo venenatis consequat cras, sociis rhoncus dapibus massa eget fames proin tristique ligula parturient lacus, aliquet aliquam purus porta tempus primis justo dictum penatibus ultricies. Accumsan in sed laoreet at feugiat ante taciti dictum curae lobortis morbi conubia egestas, dui nascetur ut rutrum nulla vitae quis mi leo sagittis hac.
+# Job-PE
+Final project BootCamp web development Full Star.
 
- 
+The final project consists of an employment web application for professionals in the hairdressing, aesthetics and makeup sector who are looking for work and for hairdressers and beauty centers that want to publish job offers to search for qualified professionals.
+
+
+Candidates looking for a job register in the app and sign up for job postings.
+Companies register in the application and post job offers.
+
 
 ## Starting 🚀
 
-You can access here:
-```
-https://jobpe.com/
-```
+This project has a backend application developed in Java with Spring Boot and a frontend application developed in Angular with Material Design components for Angular. Both applications communicate with each other through an API.
 
 git repos here:
 
-* https://github.com/
-* https://github.com/
+* https://github.com/aliany/Jobpe-Api-Backend
+* https://github.com/aliany/Jobpe-Frontend
