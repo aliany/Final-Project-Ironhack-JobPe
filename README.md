@@ -18,3 +18,10 @@ git repos here:
 
 * https://github.com/aliany/Jobpe-Api-Backend
 * https://github.com/aliany/Jobpe-Frontend
+
+## Documentation
+For more information download the following document
+
+```
+[Download project document](https://github.com/aliany/Final-Project-Ironhack-JobPe/blob/main/Poyecto%20final%20bootcamp%20development%20ironhack.pages?raw=true)
+```
