@@ -23,5 +23,5 @@ git repos here:
 For more information download the following document
 
 ```
-[Download project document](https://github.com/aliany/Final-Project-Ironhack-JobPe/blob/main/Poyecto%20final%20bootcamp%20development%20ironhack.pages?raw=true)
+[Download project document](https://github.com/aliany/Final-Project-Ironhack-JobPe/raw/main/Poyecto%20final%20bootcamp%20development%20ironhack.pdf)
 ```
