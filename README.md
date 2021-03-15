@@ -1,7 +1,7 @@
 
 
 # Job-PE
-Final project BootCamp web development Full Star.
+Final project BootCamp web development Full Stack.
 
 The final project consists of an employment web application for professionals in the hairdressing, aesthetics and makeup sector who are looking for work and for hairdressers and beauty centers that want to publish job offers to search for qualified professionals.
 
